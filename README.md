@@ -1,4 +1,4 @@
-#Proctoring System for Online Examinations
+## Proctoring System for Online Examinations
 Overview
 This project aims to develop a computer vision-enabled and AI-powered proctoring system designed to assist human proctors in various types of online examinations. The system utilizes multimedia streams, including video and audio from the user, along with system variables as input data. Relevant information is extracted and processed by an algorithm to calculate the probability of the user engaging in malpractices during the examination.
 
@@ -13,12 +13,11 @@ To achieve the project's aim, the following objectives have been identified:
 
 
 ## Screenshots
-<img src= "https://github.com/molecule03/Online-Proctoring-System/screenshots/Head pose estimation.png" width="275" height="460"> 
-<img src= "https://github.com/molecule03/Online-Proctoring-System/screenshots/Process Daigram.png" width="275" height="460"> 
-<img src= "https://github.com/molecule03/Online-Proctoring-System/screenshots/Suspicious behavior detection.png" width="275" height="460"> 
-<img src= "https://github.com/molecule03/Online-Proctoring-System/screenshots/Weightages for conditional algorithm.png" width="275" height="460"> 
+<img src= "https://github.com/molecule03/Online-Proctoring-System/blob/main/Screenshots/Head%20pose%20estimation.png"> 
+<img src= "https://github.com/molecule03/Online-Proctoring-System/blob/main/Screenshots/Process%20Daigram.png"> 
+<img src= "https://github.com/molecule03/Online-Proctoring-System/blob/main/Screenshots/Weightages%20for%20conditional%20algorithm.png"> 
+<img src= "https://github.com/molecule03/Online-Proctoring-System/blob/main/Screenshots/Suspicious%20behavior%20detection.png"> 
 
 
 ## Installation
-Download the project either by git clone or download and extract the zip, then load the project in your android studio. You are free to do the modifications as your wish
-You can even directly try app by installing in your phone, the apk file is in "releases" folder, or you can get it by <a href="https://github.com/molecule03/Workout-app/blob/master/releases/7MinutesWorkoutApp.apk">clicking here.</a> 
+Download the project either by git clone or download and extract the zip, then load the project in your IDE. Download all the dependencies which are mentioned. After that you are free to do the modifications as your wish.
